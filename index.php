@@ -1,5 +1,5 @@
 <?php
-
+    /*
     echo "Hello World!<br>";
 
     $nama = "Arista Novia";
@@ -14,5 +14,5 @@
 
     $selisihumur = $usia - $usiaadik;
     echo "Selisih usia saya dan adik saya adalah $selisihumur tahun";
-
+    */
 ?>
